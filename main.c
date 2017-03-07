@@ -3,7 +3,6 @@
 
 int main()
 {
-    vLine(20);
-    printf("Hello world!\n");
+    header();
     return 0;
 }
