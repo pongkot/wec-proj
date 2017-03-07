@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488883718 source:c:\users\bi2e-lt\desktop\wec-proj\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488883740 source:c:\users\bi2e-lt\desktop\wec-proj\module\line.c
+	<stdio.h>
+	<stdlib.h>
+
