@@ -19,7 +19,7 @@ void header(){
         promotion part
     */
     newLine(2);
-    printf("Promotion");
+    promotion();
     newLine(2);
     singleLine(maxh);
 }
