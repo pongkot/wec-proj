@@ -17,7 +17,7 @@ void promotion(){
                         "Prom 9",
                         "Prom 10",
                         "Prom 11"};
-
+    newTab(1);
     switch(rand() % 12){
         case 0 : printf("%s", list[0]); break;
         case 1 : printf("%s", list[1]); break;

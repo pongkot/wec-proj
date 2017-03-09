@@ -22,4 +22,6 @@ void header(){
     promotion();
     newLine(2);
     singleLine(maxh);
+
+    newLine(1);
 }
