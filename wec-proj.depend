@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1489028976 source:c:\users\bi2e-lt\desktop\wec-proj\main.c
+1489031714 source:c:\users\bi2e-lt\desktop\wec-proj\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -23,7 +23,11 @@
 	<stdio.h>
 	<stdlib.h>
 
-1489028979 source:c:\users\bi2e-lt\desktop\wec-proj\module\loop_selector.c
+1489032116 source:c:\users\bi2e-lt\desktop\wec-proj\module\loop_selector.c
+	<stdio.h>
+	<stdlib.h>
+
+1489031119 source:c:\users\bi2e-lt\desktop\wec-proj\module\check_input_loop_selector.c
 	<stdio.h>
 	<stdlib.h>
 

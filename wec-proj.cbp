@@ -37,6 +37,9 @@
 		<Unit filename="module/banner.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="module/check_input_loop_selector.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="module/editor.c">
 			<Option compilerVar="CC" />
 		</Unit>

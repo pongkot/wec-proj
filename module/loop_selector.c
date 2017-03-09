@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 int loop_selector(n){
-    int select;
+    int select,check;
     select = n;
 
     switch(select){
-        case 1 : printf("Select [1] Show Times\n"); break;
+        case 1 : system("cls"); printf("Select [1] Show Times\n"); break;
         case 2 : printf("Select [2] Buy Ticket\n"); break;
         case 3 : printf("Select [3] Staff\n"); break;
         case 4 : printf("Select [4] Help\n"); break;
